@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Moonwalkin'",
+  "base_artist": "LNGSHOT",
+  "createdAt": "2026-02-28T03:26:56.517542Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Moonwalkin (feat. Lil Durk)",
+      "artist": "Roddy Ricch feat. Lil Durk",
+      "has_synced": true,
+      "path": "select/01_Moonwalkin_(feat._Lil_Durk)_Roddy_Ricch_feat._Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Moonwalkin' (feat. Lil Durk)",
+      "artist": "Roddy Ricch",
+      "has_synced": true,
+      "path": "select/02_Moonwalkin'_(feat._Lil_Durk)_Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Moonwalkin (feat. Lil Durk)",
+      "artist": "Roddy Ricch, Lil Durk",
+      "has_synced": true,
+      "path": "select/03_Moonwalkin_(feat._Lil_Durk)_Roddy_Ricch,_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Moonwalkin",
+      "artist": "Roddy Ricch feat. Lil Durk",
+      "has_synced": true,
+      "path": "select/04_Moonwalkin_Roddy_Ricch_feat._Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Moonwalkin",
+      "artist": "Roddy Ricch",
+      "has_synced": true,
+      "path": "select/05_Moonwalkin_Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Moonwalkin",
+      "artist": "LOCASH",
+      "has_synced": false,
+      "path": "select/06_Moonwalkin_LOCASH.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Moonwalkin (feat. Lil Durk)",
+      "artist": "Roddy Ricch",
+      "has_synced": true,
+      "path": "select/07_Moonwalkin_(feat._Lil_Durk)_Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Moonwalkin (feat",
+      "artist": "Roddy Ricch, Lil Durk",
+      "has_synced": true,
+      "path": "select/08_Moonwalkin_(feat_Roddy_Ricch,_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Moonwalkin'",
+      "artist": "LOCASH",
+      "has_synced": false,
+      "path": "select/09_Moonwalkin'_LOCASH.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Moonwalkin",
+      "artist": "Roddy Ricch; Lil Durk",
+      "has_synced": true,
+      "path": "select/10_Moonwalkin_Roddy_Ricch;_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Moonwalkin",
+      "artist": "Lelo",
+      "has_synced": true,
+      "path": "select/11_Moonwalkin_Lelo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "MOONWALKIN'",
+      "artist": "GLU",
+      "has_synced": true,
+      "path": "select/12_MOONWALKIN'_GLU.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Roddy Ricch - Moonwalkin  (feat. Lil Durk) [Official Audio]",
+      "artist": "Roddy Ricch",
+      "has_synced": true,
+      "path": "select/13_Roddy_Ricch_-_Moonwalkin_(feat._Lil_Durk)_[Official_Audio]_Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Moonwalkin Ft. Lil Durk",
+      "artist": "Roddy Ricch",
+      "has_synced": true,
+      "path": "select/14_Moonwalkin_Ft._Lil_Durk_Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Moonwalkin (Featuring Lil Durk)",
+      "artist": "Roddy Ricch|Lil Durk",
+      "has_synced": true,
+      "path": "select/15_Moonwalkin_(Featuring_Lil_Durk)_Roddy_Ricch_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Moonwalkin",
+      "artist": "Locash Cowboys",
+      "has_synced": false,
+      "path": "select/16_Moonwalkin_Locash_Cowboys.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Moonwalkin (feat. Lil Durk) [Explicit]",
+      "artist": "Roddy Ricch",
+      "has_synced": true,
+      "path": "select/17_Moonwalkin_(feat._Lil_Durk)_[Explicit]_Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Moonwalkin",
+      "artist": "Juicy J",
+      "has_synced": true,
+      "path": "select/18_Moonwalkin_Juicy_J.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Moonwalkin",
+      "artist": "Jake Miller",
+      "has_synced": false,
+      "path": "select/19_Moonwalkin_Jake_Miller.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Moonwalkin",
+      "artist": "Chris Patrick",
+      "has_synced": true,
+      "path": "select/20_Moonwalkin_Chris_Patrick.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Moonwalkin'",
+      "artist": "LNGSHOT",
+      "has_synced": false,
+      "path": "select/pl_01_Moonwalkin'_LNGSHOT.txt"
+    }
+  ]
+}
